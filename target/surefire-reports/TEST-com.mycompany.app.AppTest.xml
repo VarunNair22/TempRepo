@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.mycompany.app.AppTest" time="0.04" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.mycompany.app.AppTest" time="0.03" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="gnome"/>
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-11-openjdk-amd64/lib"/>
-    <property name="sun.java.command" value="/home/varun/JiraBot/my-app/target/surefire/surefirebooter4521817281651152157.jar /home/varun/JiraBot/my-app/target/surefire 2021-08-03T12-21-53_829-jvmRun1 surefire15506498228567284630tmp surefire_012856998245478057970tmp"/>
+    <property name="sun.java.command" value="/home/varun/JiraBot/my-app/target/surefire/surefirebooter1621673553187392380.jar /home/varun/JiraBot/my-app/target/surefire 2021-08-04T13-46-32_213-jvmRun1 surefire11572847381291261822tmp surefire_0756261096950997549tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/home/varun/JiraBot/my-app/target/test-classes:/home/varun/JiraBot/my-app/target/classes:/home/varun/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/varun/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -32,7 +32,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/home/varun/JiraBot/my-app/target/surefire/surefirebooter4521817281651152157.jar"/>
+    <property name="surefire.real.class.path" value="/home/varun/JiraBot/my-app/target/surefire/surefirebooter1621673553187392380.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.11+9-Ubuntu-0ubuntu2.20.10"/>
     <property name="user.name" value="varun"/>
@@ -51,7 +51,7 @@
     <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
     <property name="sun.os.patch.level" value="unknown"/>
     <property name="java.library.path" value="/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib"/>
-    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vm.info" value="mixed mode"/>
     <property name="java.vendor" value="Ubuntu"/>
     <property name="java.vm.version" value="11.0.11+9-Ubuntu-0ubuntu2.20.10"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
